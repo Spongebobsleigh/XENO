@@ -1,2 +1,1 @@
-# XENO
-カードゲームのXENOを真似て作ってみました。
+Cardgame
